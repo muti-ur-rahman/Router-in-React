@@ -1,12 +1,6 @@
-import React from 'react'
+// src/pages/Contact.jsx
+import React from 'react';
 
-const Login = () => {Login}
+const Login = () => <h1>Login</h1>;
 
-export default Login
-// echo "# Router-in-React" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/muti-ur-rahman/Router-in-React.git
-// git push -u origin main
+export default Login;
